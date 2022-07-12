@@ -1,0 +1,7 @@
+.table-cell {
+    cursor: pointer;
+}
+
+.table-cell:hover {
+    background-color: rgba(232, 190, 253, 0.177);
+}
